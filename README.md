@@ -1,10 +1,11 @@
-# fh-storybook-dev-components
+# kp-storybook-dev-components
 
 Este paquete me sirve para practicar React Componentes + Storybook + NPM Publish
 
 ```
-yarn add fh-my-storybook-components
+yarn add kp-my-storybook-components
 ```
 
 ### Demo:
-[Storyboook Components](https://klerith.github.io/sb-components/?path=/story/ui-mylabel--basic) 
+
+[Storyboook Components](https://akumu02.github.io/sb-components/?path=/story/example-introduction--page)
